@@ -1,9 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:mapdecoding/mythirdmap.dart';
+import 'package:mapdecoding/myfifthmap.dart';
+import 'package:mapdecoding/myforthmap.dart';
 
 void main() {
   runApp(MaterialApp(
-    home: mythirsmap(),
+    home: fivemap(),
   ));
 }
 
